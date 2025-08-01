@@ -108,12 +108,12 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <p id="about-this-workshop">
   <strong>About this workshop:</strong>
- This course is intended for people who have already undertaken the <a href="https://swcarpentry.github.io/git-novice">Introduction to Version Control with Git</a> or have equivalent experience. It will be assumed you are familiar with basic Git concepts including the workflow for adding, commiting, pushing and pulling files to a repository and basic use of remote repositories such as Github or Gitlab. This lesson will cover a short recap of the introductory lesson and then look at forking/branching, remote repositories, merging branches, advanced logging, how to identify which commit introduced a bug, undoing changes, using git tags, issue tracking and publishing code to Github and a repository such as Zenodo. You can find the course notes for this lesson <a href="https://noc-oi.github.io/intermediate-git/index.html">here</a>.
+ This course is intended for people who have already undertaken the <a href="https://swcarpentry.github.io/git-novice">Introduction to Version Control with Git</a> or have equivalent experience. It will be assumed you are familiar with basic Git concepts including the workflow for adding, commiting, pushing and pulling files to a repository and basic use of remote repositories such as Github or Gitlab. This lesson will cover a short recap of the introductory lesson and then look at forking/branching, remote repositories, merging branches, advanced logging, how to identify which commit introduced a bug, undoing changes, using git tags, issue tracking and publishing code to Github and a repository such as Zenodo. 
 </p>
 
 <p id="course-notes">
   <strong>Course Notes:</strong>
-  The course notes for this lesson are still being finialised. An idea of the content can be found <a href="{{site.incubator_lesson_site}}">here</a>.
+  You can find the course notes for this lesson <a href="https://noc-oi.github.io/intermediate-git/index.html">here</a>.
 </p>
 
 <p id="who-can-attend">
