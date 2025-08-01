@@ -14,7 +14,7 @@ humantime: "9:30 am - 1:00 pm BST"    # human-readable times for the workshop e.
 startdate: 2025-08-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2025-08-06        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Colin Sauze", "Tobias Ferreira"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Esther Turner", "TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Esther Turner", "Adam Ward"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["colin.sauze@noc.ac.uk","esther.turner@noc.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: 1312014192769          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -108,8 +108,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <p id="about-this-workshop">
   <strong>About this workshop:</strong>
-  The content of this Intermediate Git course is still being finalised. However, expect it to include branching, remotes, and merging, among other topics. If you'd like to find out more, please do get in contact with us. 
-  This training assumes you are already familiar with the material of the <a href="https://swcarpentry.github.io/git-novice/">Version Control with Git</a> course. We'll be using Git from the command line, so some familarity with basic Unix Shell is also assumed. 
+ This course is intended for people who have already undertaken the <a href="https://swcarpentry.github.io/git-novice">Introduction to Version Control with Git</a> or have equivalent experience. It will be assumed you are familiar with basic Git concepts including the workflow for adding, commiting, pushing and pulling files to a repository and basic use of remote repositories such as Github or Gitlab. This lesson will cover a short recap of the introductory lesson and then look at forking/branching, remote repositories, merging branches, advanced logging, how to identify which commit introduced a bug, undoing changes, using git tags, issue tracking and publishing code to Github and a repository such as Zenodo. You can find the course notes for this lesson <a href="https://noc-oi.github.io/intermediate-git/index.html">here</a>.
 </p>
 
 <p id="course-notes">
